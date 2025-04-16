@@ -1,0 +1,13 @@
+<dependencies>
+<unityversion>7.22.4</unityversion>
+<androidPackages>
+<androidPackage spec="com.unity3d.ads-mediation:adquality-sdk:7.22.4"> </androidPackage>
+</androidPackages>
+<iosPods>
+<iosPod name="IronSourceAdQualitySDK" version="7.22.4">
+<sources>
+<source>https://github.com/CocoaPods/Specs</source>
+</sources>
+</iosPod>
+</iosPods>
+</dependencies>

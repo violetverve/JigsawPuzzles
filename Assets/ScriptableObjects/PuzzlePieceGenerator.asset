@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2a14a85c3f94bd42b21f4e47e5f9dd8, type: 3}
+  m_Name: PuzzlePieceGenerator
+  m_EditorClassIdentifier: 
+  _splineContainer: {fileID: 7175875128387082676, guid: ea8c3c3933df4594f8ec4b7eda84d37f, type: 3}
+  _pointsPerSpline: 40
+  _outlineMaterial: {fileID: 2100000, guid: 4b67c2b9f2ec7c943884b182d31c4f17, type: 2}
+  _outlineWidth: 0.01

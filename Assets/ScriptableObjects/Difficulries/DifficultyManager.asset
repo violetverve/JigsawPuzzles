@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b033a1d383efcc4389724c1e8c52fe6, type: 3}
+  m_Name: DifficultyManager
+  m_EditorClassIdentifier: 
+  _difficulties:
+  - {fileID: 11400000, guid: ee00dd14e8a7b5e42a1cb3f5394c8069, type: 2}
+  - {fileID: 11400000, guid: cdf4056b7de849c4385a5e69ad760b0b, type: 2}
+  - {fileID: 11400000, guid: f0860c47f95e754488b921bc45ce62eb, type: 2}
+  - {fileID: 11400000, guid: f36c82affcc4be7468a95f8d2ab9f757, type: 2}
+  - {fileID: 11400000, guid: d80e9e6cfe810b74caf721a05d4fc5cd, type: 2}
+  _rotationBonusPercentage: 0.25
