@@ -1,6 +1,7 @@
 # Jigsaw Puzzles
 
-![image](https://github.com/user-attachments/assets/e2fbb85d-e760-4810-a385-b0d8cce3b4bf)
+![image](https://github.com/user-attachments/assets/2ec71b1b-93c8-4714-b437-d2e570fecbe5)
+
 
 ### 🔧 Prerequisites
 
